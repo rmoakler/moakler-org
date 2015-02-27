@@ -1,3 +1,9 @@
+# Mac Garbage
+.DS_Store
+
+# Folders
+scratch/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
